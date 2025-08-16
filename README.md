@@ -158,14 +158,7 @@ BEGIN
 END;
 ```
 
-## 🧠 CONSEJOS FINALES
 
-- ✅ Escribí siempre el `JOIN` con cuidado: clave primaria ↔ clave foránea  
-- ✅ Usar `GROUP BY` con funciones como `COUNT`, `AVG`, etc.  
-- ✅ Si necesitás filtrar un resultado **después** de agrupar, usá `HAVING`, no `WHERE`.  
-- ✅ Recordá que `UNION` requiere misma cantidad de columnas.  
-- ✅ `LEFT JOIN` es útil si querés traer todos los datos de una tabla aunque no haya coincidencia.  
-- ✅ `EXISTS` / `NOT EXISTS` verifican si existen registros relacionados.
   
 
 ---
